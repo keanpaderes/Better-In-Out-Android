@@ -1,0 +1,7 @@
+<resources>
+    <!-- CONFIG STRINGS -->
+    <string name="server_client_id">521616243579-ek4425el5fdnvpnsmb3g9urttnbpfsoo.apps.googleusercontent.com</string>
+
+    <!-- APP STRINGS -->
+    <string name="app_name">Better-In-Out-Android</string>
+</resources>
